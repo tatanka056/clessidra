@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Blue Screen saver">
+</Property><Property Name="Solution File" Value="C:\SCREENSAVER\Blue Screen saver\Blue Screen saver.sln">
+</Property><Property Name="Date" Value="sabato 4 luglio 2015">
+</Property><Property Name="Time" Value="10:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Blue Screen saver.sln" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Blue Screen saver.sln">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Blue Screen saver.csproj" Description="Project file successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Blue Screen saver.csproj">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Blue Screen saver.csproj.user" Description="Project user file successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Blue Screen saver.csproj.user">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="BSODBodyText.Designer.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\BSODBodyText.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Errors.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Errors.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="MainForm.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="MainForm.Designer.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Program.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Properties\Settings.settings" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="bsod.ico" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\bsod.ico">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="BSODBodyText.resx" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\BSODBodyText.resx">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="MainForm.resx" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Properties\Resources.resx" Description="File successfully backed up as C:\SCREENSAVER\Blue Screen saver\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Blue Screen saver.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Blue Screen saver" Source="Blue Screen saver.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Blue Screen saver.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Blue Screen saver.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Blue Screen saver" Source="Blue Screen saver.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

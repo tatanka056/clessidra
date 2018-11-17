@@ -1,0 +1,28 @@
+C:\SCREENSAVER\Blue Screen saver\bin\Debug\Blue Screen saver.exe
+C:\SCREENSAVER\Blue Screen saver\bin\Debug\Blue Screen saver.pdb
+C:\SCREENSAVER\Blue Screen saver\obj\Debug\Blue_Screen_saver.BSODBodyText.resources
+C:\SCREENSAVER\Blue Screen saver\obj\Debug\Blue_Screen_saver.MainForm.resources
+C:\SCREENSAVER\Blue Screen saver\obj\Debug\Blue_Screen_saver.Properties.Resources.resources
+C:\SCREENSAVER\Blue Screen saver\obj\Debug\Blue Screen saver.csproj.GenerateResource.Cache
+C:\SCREENSAVER\Blue Screen saver\obj\Debug\Blue Screen saver.exe
+C:\SCREENSAVER\Blue Screen saver\obj\Debug\Blue Screen saver.pdb
+C:\SCREENSAVER\Blue Screen saver\obj\Debug\Blue Screen saver.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\obj\Debug\Blue Screen saver.exe
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\obj\Debug\Blue Screen saver.pdb
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\bin\Debug\Blue Screen saver.exe
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\bin\Debug\Blue Screen saver.pdb
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\obj\Debug\Blue Screen saver.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\obj\Debug\Blue_Screen_saver.BSODBodyText.resources
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\obj\Debug\Blue_Screen_saver.MainForm.resources
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\obj\Debug\Blue_Screen_saver.Properties.Resources.resources
+C:\Users\PC\Downloads\PEN_DRIVE\PEN_DRIVE\Blue Screen saver\obj\Debug\Blue Screen saver.csproj.GenerateResource.Cache
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\bin\Debug\Blue Screen saver.exe
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\bin\Debug\Blue Screen saver.pdb
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue Screen saver.csprojAssemblyReference.cache
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue_Screen_saver.BSODBodyText.resources
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue_Screen_saver.MainForm.resources
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue_Screen_saver.Properties.Resources.resources
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue Screen saver.csproj.GenerateResource.cache
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue Screen saver.csproj.CoreCompileInputs.cache
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue Screen saver.exe
+C:\Users\CIT094WPC\Desktop\Blue Screen saver\obj\Debug\Blue Screen saver.pdb
